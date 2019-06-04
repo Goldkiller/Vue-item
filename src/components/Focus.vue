@@ -25,14 +25,14 @@
                     </span>
                 </a>
             </li>
-            <!-- <li class="item">
+            <li class="item">
                 <a href="">
-                    <span>炸出爱推理的你！国内悬疑小说巅峰之作</span>
+                    <span>炸出爱推理的你！国内悬疑小说巅峰之作sadsa</span>
                     <span class="pho">
                         <img src="../assets/imge/wKgJXlmKa5eSwI8iAAA5NO1EL3o613_mobile_small.jpg" alt="">
                     </span>
                 </a>
-            </li> -->
+            </li>
         </ul>
         <div class="radio">
             <a href="" class="radio-person">
