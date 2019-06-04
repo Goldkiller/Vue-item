@@ -19,7 +19,7 @@
         <ul class="list2">
             <li class="item">
                 <a href="">
-                    <span>声临喜马：谁是你心中的叔圈最强音？</span>
+                    <span>声临喜马：谁是你心中的叔圈最强音sas？</span>
                     <span class="pho">
                         <img src="../assets/imge/wKgLf1xui3fzsa9YAAE1ZoaO1D8824.jpg" alt="">
                     </span>
